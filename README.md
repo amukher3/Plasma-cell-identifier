@@ -29,7 +29,7 @@ then use the `Cell_classifier_deployer.py` file to use it as  a local host.
 Some of the sources of images are: https://sites.google.com/site/hosseinrabbanikhorasgani/datasets-1
 and the Harvard data-verse. 
 
-Comit details are in: https://bitbucket.org/amukher3/
+Commit details are in: https://bitbucket.org/amukher3/
 
 `Bugs/queries can be reported to : abhi0787@gmail.com amukher3@rockets.utoledo.edu`
 
